@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "18907378078",
+    "firebase_url": "https://sweeto-c7d77-default-rtdb.firebaseio.com",
+    "project_id": "sweeto-c7d77",
+    "storage_bucket": "sweeto-c7d77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18907378078:android:27a407fa756a95dfe9268f",
+        "android_client_info": {
+          "package_name": "com.example.adminsweeto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18907378078-hl0rok01cp0nkjdioig9hb1is3vqr0jv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adminsweeto",
+            "certificate_hash": "a65b7d2ca543a88ef1470e0c6a7da87fbc4557c3"
+          }
+        },
+        {
+          "client_id": "18907378078-nprc4mg1nctb9bd1v2ovfmknr95pfooo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb6PFjeEouiQpmrBqm33bATxxejfyRr9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18907378078-nprc4mg1nctb9bd1v2ovfmknr95pfooo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
