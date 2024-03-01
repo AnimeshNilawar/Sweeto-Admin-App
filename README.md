@@ -28,6 +28,19 @@ Welcome to the SWEETO Admin App repository! This app serves as the admin panel f
 
 - Order Status Tracking: Monitor the status of each order from placement to completion.
 
+ ## App Demo - https://youtu.be/9jNHSme0STs
+
+## Screenshots 📸
+
+<img src="Screenhsots/IMG-20240301-WA0023.jpg" alt="Screenshot 1" width="200"/> <img src="Screenhsots/IMG-20240301-WA0022.jpg" alt="Screenshot 1" width="200"/>
+<img src="Screenhsots/IMG-20240301-WA0021.jpg" alt="Screenshot 1" width="200"/>
+<img src="Screenhsots/IMG-20240301-WA0019.jpg" alt="Screenshot 1" width="200"/>
+<img src="Screenhsots/IMG-20240301-WA0024.jpg" alt="Screenshot 1" width="200"/>
+<img src="Screenhsots/IMG-20240301-WA0018.jpg" alt="Screenshot 1" width="200"/>
+<img src="Screenhsots/IMG-20240301-WA0020.jpg" alt="Screenshot 1" width="200"/>
+<img src="Screenhsots/IMG-20240301-WA0016.jpg" alt="Screenshot 1" width="200"/>
+<img src="Screenhsots/IMG-20240301-WA0017.jpg" alt="Screenshot 1" width="200"/>
+<img src="Screenhsots/IMG-20240301-WA0015.jpg" alt="Screenshot 1" width="200"/>
 
 ## Technologies Used
 
