@@ -1,5 +1,5 @@
 
-# SWEETO User App
+# SWEETO Admin App
 
 Welcome to the SWEETO Admin App repository! This app serves as the admin panel for the SWEETO food ordering app, allowing restaurant owners or administrators to manage their menu, track orders, and view earnings. Below are the key features of the app:
 
